@@ -13,6 +13,6 @@ These steps were used to Classify the radio signals -
 6. Train the Model
 7. Evaluate the Mode
 
-The model provided more than 75% accuracy in classifying Radio Signals.
+The model provided more than 74% accuracy in classifying Radio Signals.
 
 This was a guided project on the Coursera website.
