@@ -1,5 +1,5 @@
 # Classify-Radio-Signals-from-Space-with-Keras
-Radio Signals from Space (collected by SETI, Search for Extraterrestrial Intelligence Institute) were classified into 4 categories - ["squiggle", "narrowband", "noise", "narrowbanddrd"], using convolutional neural networks. The networks trained on the 2D Spectrogram images of the signals
+Radio Signals from Space (collected by SETI, Search for Extraterrestrial Intelligence Institute) were classified into 4 categories - ["squiggle", "narrowband", "noise", "narrowbanddrd"], using a convolutional neural network. The network was trained on the 2D Spectrogram images of the signals
 
 Look at the notebook file for the code. 
 
